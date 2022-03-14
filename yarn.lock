@@ -1392,10 +1392,10 @@
   resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.12.tgz#431ec342a7195622f86688bbda82e3166ce8cb28"
   integrity sha512-6RglhutqrGFMO1MNUXp95RBuYIuc8wTnMAV5MUhLmjTOy78ncwOw7RgeQ/HeymkKXRhZd0s2DNrM1rL7unk3MQ==
 
-"@popperjs/core@^2.6.0":
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.6.0.tgz#f022195afdfc942e088ee2101285a1d31c7d727f"
-  integrity sha512-cPqjjzuFWNK3BSKLm0abspP0sp/IGOli4p5I5fKFAzdS8fvjdOwDCfZqAaIiXd9lPkOWi3SUUfZof3hEb7J/uw==
+"@popperjs/core@^2.11.3":
+  version "2.11.3"
+  resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.11.3.tgz#f327fcb4f2576bf0b0ea0e65e773495cdf40188b"
+  integrity sha512-8U7hIl7+30XbIrJ0deQMXpXESM1L4yrt6BHok5hzcR0LivivuNkk+tHU1iRVScOwCmQcrOr6kvtIr29MNbQHqQ==
 
 "@sindresorhus/is@^4.0.0":
   version "4.0.0"
